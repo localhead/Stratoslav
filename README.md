@@ -1,5 +1,4 @@
-<h1 align="left">Hi ✌, I'm Stas</h1>
-<h3  align="left">A passionate frontend(React) developer from Ukraine</h3>
+<h3  align="left">Frontend(React) developer from Ukraine</h3>
 <img width="400" align="rigth" src="https://media.tenor.com/joAGLtB1n8IAAAAC/the-simpsons-bart.gif" alt=""/>
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=stratoslav&label=Profile%20views&color=0e75b6&style=flat" alt="stratoslav" /> </p>
 
